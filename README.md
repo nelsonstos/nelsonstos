@@ -12,6 +12,13 @@ Participo activamente en proyectos de inteligencia artificial, incluyendo Machin
 
 En resumen, soy un profesional tecnológico apasionado y versátil con sólidas habilidades técnicas y una profunda implicación en el desarrollo de soluciones innovadoras, especialmente en el ámbito de la inteligencia artificial.
 
+## Tecnologías:
+- **Lenguajes de Programación:** Java, Golang, PHP, Python, JavaScript, TypeScript
+- **Frameworks FrontEnd:** Angular, Reactjs, Vuejs
+- **Herramientas FrontEnd:** CSS3, Bootstrap, HTML5
+- **DevOps y Cloud Computing:** Docker, Kubernetes, Jenkins, Linux, Vagrant, AWS, GCP, Azure
+- **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision, NLP
+
 <!--
 **nelsonstos/nelsonstos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
