@@ -1,6 +1,6 @@
 # Hola, Mi nombre es Nelson! 👋
 
-Soy un Ingeniero de Sistemas especializado en Desarrollo de Software y Data Science con más de 9 años de experiencia en Tecnologías de la Información.
+Soy Ingeniero de Sistemas especializado en Desarrollo de Software y Data Science con más de 9 años de experiencia laboral
 
 Me apasiona la tecnología y estoy constantemente mejorando mis habilidades y conocimientos, especialmente en áreas como Desarrollo y Data Science, así como en DevOps y Cloud Computing. 
 He trabajado en proyectos Scrum, participando en todas las etapas del desarrollo de software, y tengo experiencia en una amplia gama de tecnologías tanto en el FrontEnd como en el BackEnd. Además, soy hábil en herramientas de DevOps y tengo experiencia en la nube con AWS, GCP y Azure. 
