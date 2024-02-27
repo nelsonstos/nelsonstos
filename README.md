@@ -1,4 +1,6 @@
-# Hola soy Nelson! 👋
+# Hola, Mi nombre es Nelson! 👋
+
+Soy un Ingeniero de Sistemas especializado en Desarrollo de Software y Data Science con más de 9 años de experiencia en Tecnologías de la Información. Me apasiona la tecnología y estoy constantemente mejorando mis habilidades y conocimientos, especialmente en áreas como Desarrollo y Data Science, así como en DevOps y Cloud Computing. He trabajado en proyectos Scrum, participando en todas las etapas del desarrollo de software, y tengo experiencia en una amplia gama de tecnologías tanto en el FrontEnd como en el BackEnd. Además, soy hábil en herramientas de DevOps y tengo experiencia en la nube con AWS, GCP y Azure. Participo activamente en proyectos de inteligencia artificial, incluyendo Machine Learning, Deep Learning, Computer Vision y NLP, explorando constantemente nuevas aplicaciones y avances en este campo en rápido crecimiento. En resumen, soy un profesional tecnológico apasionado y versátil con sólidas habilidades técnicas y una profunda implicación en el desarrollo de soluciones innovadoras, especialmente en el ámbito de la inteligencia artificial.
 
 <!--
 **nelsonstos/nelsonstos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
