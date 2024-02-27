@@ -13,11 +13,21 @@ Participo activamente en proyectos de inteligencia artificial, incluyendo Machin
 En resumen, soy un profesional tecnológico apasionado y versátil con sólidas habilidades técnicas y una profunda implicación en el desarrollo de soluciones innovadoras, especialmente en el ámbito de la inteligencia artificial.
 
 ## Tecnologías:
-- **Lenguajes de Programación:** Java, Golang, PHP, Python, JavaScript, TypeScript
-- **Frameworks FrontEnd:** Angular, Reactjs, Vuejs
-- **Herramientas FrontEnd:** CSS3, Bootstrap, HTML5
-- **DevOps y Cloud Computing:** Docker, Kubernetes, Jenkins, Linux, Vagrant, AWS, GCP, Azure
-- **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision, NLP
+
+- **Lenguajes de Programación:**  
+  ![Java](url_a_la_imagen_java) ![Golang](url_a_la_imagen_golang) ![PHP](url_a_la_imagen_php) ![Python](url_a_la_imagen_python) ![JavaScript](url_a_la_imagen_javascript) ![TypeScript](url_a_la_imagen_typescript)
+
+- **Frameworks FrontEnd:**  
+  ![Angular](url_a_la_imagen_angular) ![Reactjs](url_a_la_imagen_reactjs) ![Vuejs](url_a_la_imagen_vuejs)
+
+- **Herramientas FrontEnd:**  
+  ![CSS3](url_a_la_imagen_css3) ![Bootstrap](url_a_la_imagen_bootstrap) ![HTML5](url_a_la_imagen_html5)
+
+- **DevOps y Cloud Computing:**  
+  ![Docker](url_a_la_imagen_docker) ![Kubernetes](url_a_la_imagen_kubernetes) ![Jenkins](url_a_la_imagen_jenkins) ![Linux](url_a_la_imagen_linux) ![Vagrant](url_a_la_imagen_vagrant) ![AWS](url_a_la_imagen_aws) ![GCP](url_a_la_imagen_gcp) ![Azure](url_a_la_imagen_azure)
+
+- **Inteligencia Artificial:**  
+  ![Machine Learning](url_a_la_imagen_ml) ![Deep Learning](url_a_la_imagen_dl) ![Computer Vision](url_a_la_imagen_cv) ![NLP](url_a_la_imagen_nlp)
 
 <!--
 **nelsonstos/nelsonstos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
