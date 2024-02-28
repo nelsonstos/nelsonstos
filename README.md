@@ -22,6 +22,7 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
 <img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white'/>
 <img src='https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white'/>
+<img src='https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white'/>
 <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 <img src='https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
@@ -31,14 +32,20 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white'/>
 <img src='https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white'/>
 <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
+<img src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white'/>
+<img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+<img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white'/>
+<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'/>
+<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'/>
+<img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'/>
+<img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'/>
+<img src='https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white'/>
 
 
 
