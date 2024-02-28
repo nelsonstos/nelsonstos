@@ -14,7 +14,9 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 
 ## Tecnologías:
 
-- **Lenguajes de Programación:** Java, Golang, PHP, Python, JavaScript y TypeScript
+- **Lenguajes de Programación:**
+  <img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot' />
+  Java, Golang, PHP, Python, JavaScript y TypeScript
 - **Frameworks FrontEnd:** Angular, Reactjs, React Native  y Vuejs
 - **Herramientas FrontEnd:** CSS3, Bootstrap5, HTML5 y Tailwind
 - **DevOps y Cloud Computing:** Docker, Kubernetes, Jenkins, Linux, Vagrant, AWS, GCP y Azure
