@@ -24,16 +24,13 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white'/>
 <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+<img src='https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
+<img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white'/>
 <img src='https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black'/>
 <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-
-
-
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
+<img src='https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white'/>
+<img src='https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white'/>
+<img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/>
 <img src=''/>
 <img src=''/>
 <img src=''/>
