@@ -48,6 +48,13 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
 <img src='https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white'/>
 <img src='https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white'/>
+<img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'/>
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white'/>
+<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
+<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
+<img src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white'/>
+<img src='https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white'/>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
 <img src='https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white'/>
 <img src='https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white'/>
@@ -56,13 +63,8 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white'/>
 <img src='https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044'/>
 <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'/>
-<img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'/>
-<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
-<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white'/>
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
-<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
-<img src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white'/>
-<img src='https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white'/>
+
+- **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision y NLP
 ## Redes sociales
 <a href='https://www.linkedin.com/in/wsantosg/'>
  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
@@ -71,13 +73,6 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 
 
 
-- **Lenguajes de Programación:**
- 
-  Java, Golang, PHP, Python, JavaScript y TypeScript
-- **Frameworks FrontEnd:** Angular, Reactjs, React Native  y Vuejs
-- **Herramientas FrontEnd:** CSS3, Bootstrap5, HTML5 y Tailwind
-- **DevOps y Cloud Computing:** Docker, Kubernetes, Jenkins, Linux, Vagrant, AWS, GCP y Azure
-- **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision y NLP
 
 
 <!--
