@@ -18,9 +18,32 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
 <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
-<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
 <img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white'/>
+<img src='https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white'/>
+<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+<img src='https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black'/>
+<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+
+
+
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+
+
 
 - **Lenguajes de Programación:**
  
