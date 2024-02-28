@@ -12,10 +12,18 @@ Participo activamente en proyectos de inteligencia artificial, incluyendo Machin
 
 En resumen, soy un profesional tecnológico apasionado y versátil con sólidas habilidades técnicas y una profunda implicación en el desarrollo de soluciones innovadoras, especialmente en el ámbito de la inteligencia artificial.
 
-## Tecnologías:
+## Skills:
+<img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot' />
+<img src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white'/>
+<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
+<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
+<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
+<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white'/>
 
 - **Lenguajes de Programación:**
-  <img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot' />
+ 
   Java, Golang, PHP, Python, JavaScript y TypeScript
 - **Frameworks FrontEnd:** Angular, Reactjs, React Native  y Vuejs
 - **Herramientas FrontEnd:** CSS3, Bootstrap5, HTML5 y Tailwind
