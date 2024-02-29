@@ -67,9 +67,11 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 - **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision y NLP
 ## Redes sociales
 <a href='https://www.linkedin.com/in/wsantosg/'>
- <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+ ![Alt text][(https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 </a>
-
+<a href='https://www.twitch.tv/nelsonstos' >
+ <img src='https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white'/>
+</a>
 
 
 
