@@ -2,7 +2,7 @@
 
 ![banner2](https://github.com/nelsonstos/nelsonstos/assets/10160467/1b662a3b-0904-4e88-90f1-8602bb8b763b)
 
-
+# :octocat: About me...
 
 Soy Ingeniero de Sistemas especializado en Desarrollo de Software y Data Science con más de 9 años de experiencia laboral
 
