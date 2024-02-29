@@ -72,7 +72,9 @@ En resumen, soy un profesional tecnológico apasionado y versátil con sólidas 
 <a href='https://www.twitch.tv/nelsonstos' >
  <img src='https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white'/>
 </a>
-
+<a href='https://twitter.com/nelsonstos'>
+ <img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white'/>
+</a>
 
 
 
