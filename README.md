@@ -4,13 +4,9 @@
 
 # :octocat: About me...
 
-Soy Ingeniero de Sistemas especializado en Desarrollo de Software y Data Science con más de 9 años de experiencia laboral
-
-Me apasiona la tecnología y estoy constantemente mejorando mis habilidades y conocimientos, especialmente en áreas como Desarrollo y Data Science, así como en DevOps y Cloud Computing. 
-He participado de manera activa en todas las etapas del desarrollo de software, y tengo experiencia en una amplia gama de tecnologías tanto en el FrontEnd como en el BackEnd. Además, soy hábil en herramientas de DevOps y tengo experiencia en la nube con AWS y GCP. 
-Participo activamente en proyectos de inteligencia artificial, incluyendo Machine Learning, Deep Learning, Computer Vision y NLP, explorando constantemente nuevas aplicaciones y avances en este campo en rápido crecimiento. 
-
-En resumen, soy un profesional tecnológico apasionado y versátil con sólidas habilidades técnicas y una profunda implicación en el desarrollo de soluciones innovadoras, especialmente en el ámbito de la inteligencia artificial.
+I am a Systems Engineer specialized in Software Development and Data Science with over 9 years of work experience. 
+I am passionate about technology and constantly enhancing my skills and knowledge, particularly in areas like Development, Data Science, DevOps, and Cloud Computing. I have been actively involved in all stages of software development and have experience with a wide range of technologies in both FrontEnd and BackEnd. Additionally, I am proficient in DevOps tools and have cloud experience with AWS and GCP. I actively participate in artificial intelligence projects, including Machine Learning, Deep Learning, Computer Vision, and NLP, continually exploring new applications and advancements in this rapidly growing field. 
+In summary, I am a passionate and versatile technology professional with strong technical skills and a deep involvement in developing innovative solutions, especially in the field of artificial intelligence
 
 ## Skills:
 ![Alt text](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
