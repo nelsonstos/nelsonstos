@@ -62,7 +62,7 @@ In summary, I am a passionate and versatile technology professional with strong 
 <img src='https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044'/>
 <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'/>
 
-- **Inteligencia Artificial:** Machine Learning, Deep Learning, Computer Vision y NLP
+- **Artificial Intelligence:** Machine Learning, Deep Learning, Computer Vision,  NLP, AI Automation, Prompt, ...
 ## Redes sociales
 <a href='https://www.linkedin.com/in/wsantosg/'>
  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
