@@ -4,9 +4,7 @@
 
 # :octocat: About me...
 
-I am passionate about technology and constantly enhancing my skills and knowledge, particularly in areas like Development, Data Science, DevOps, and Cloud Computing. I have been actively involved in all stages of software development and have experience with a wide range of technologies in both FrontEnd and BackEnd. Additionally, I am proficient in DevOps tools and have cloud experience with AWS and GCP. I actively participate in artificial intelligence projects, including Machine Learning, Deep Learning, Computer Vision, and NLP, continually exploring new applications and advancements in this rapidly growing field. 
-
-In summary, I am a passionate and versatile technology professional with strong technical skills and a deep involvement in developing innovative solutions, especially in the field of artificial intelligence
+I am a technology enthusiast with expertise in Development, Data Science, DevOps, and Cloud Computing, experienced across FrontEnd, BackEnd, and AI projects (ML, DL, Computer Vision, NLP). Skilled in AWS, GCP, and DevOps tools, I continuously seek advancements in these fields
 
 ## Skills:
 ![Alt text](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
